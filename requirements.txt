@@ -1,7 +1,5 @@
-gradio>=4.20.0
 tensorflow
 pandas
 numpy
 scikit-learn
 pillow
-huggingface_hub>=0.23.0
