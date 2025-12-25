@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Datasets (Too big for Git)
+*.csv
+/concrete_data/
+/crack_images/
+
+# Jupyter Checkpoints
+.ipynb_checkpoints
