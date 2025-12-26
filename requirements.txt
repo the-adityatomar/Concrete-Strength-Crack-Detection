@@ -1,5 +1,7 @@
-tensorflow
+gradio>=4.0.0
+huggingface_hub>=0.20.0
 pandas
 numpy
-scikit-learn
+tensorflow
 pillow
+scikit-learn
