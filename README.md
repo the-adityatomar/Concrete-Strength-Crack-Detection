@@ -51,6 +51,11 @@ This project introduces an **Integrated AI Toolkit** that addresses the full lif
 * **Visualization:** Matplotlib, Seaborn
 * **Interface:** Gradio (Web-based interactive dashboard)
 
+ ##  🚀 Deployed Model
+
+[Hugging Face Deployed Model](https://huggingface.co/spaces/theAdityaTomar/Concrete-Strength-Crack-Detection)
+
+
 ## 🚀 Installation & Usage
 
 ### 1. Clone the Repository
